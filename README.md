@@ -12,8 +12,8 @@ reference and create :
 
 ![image](https://github.com/BaranOzcelik/UnityDataSaveSystem/assets/86208132/219fa548-c9e1-4110-82a6-92444b490e05)
 
-
-
+Inspector Settings :
+![image](https://github.com/BaranOzcelik/UnityDataSaveSystem/assets/86208132/ed8077fc-b372-4c6a-954c-5b35fba19577)
 
 Save file path :
 ![image](https://github.com/BaranOzcelik/UnityDataSaveSystem/assets/86208132/656a5827-1c95-440d-aef5-c72916e8ed82)
