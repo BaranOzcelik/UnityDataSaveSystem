@@ -18,4 +18,5 @@ Inspector Settings :
 
 Save file path :
 
-![image](https://github.com/BaranOzcelik/UnityDataSaveSystem/assets/86208132/656a5827-1c95-440d-aef5-c72916e8ed82)
+![image](https://github.com/BaranOzcelik/UnityDataSaveSystem/assets/86208132/171e3fb1-7469-4c40-ac3e-f55512acfb3b)
+
